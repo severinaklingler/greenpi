@@ -11,9 +11,9 @@ water_level = MCP3008(channel=1)
 relay1 = OutputDevice(pin=26,active_high=False)
 delay = 1
 
-relay1.on()
-time.sleep(10)
-relay1.off()
+# relay1.on()
+# time.sleep(10)
+# relay1.off()
 
 
 try:
@@ -21,7 +21,7 @@ try:
         print('Moisture ' + str(moisture.value))
         print('Water level ' + str(water_level.value))
         
-        if moisture.value > 0.05:
+        if moisture.value > 2.0:
             relay1.on()
             time.sleep(1)
             relay1.off()
