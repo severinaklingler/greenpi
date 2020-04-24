@@ -6,10 +6,11 @@ from gpiozero import MCP3008
 
 
 
+
 moisture = MCP3008(channel=0)
 water_level = MCP3008(channel=1)
 relay1 = OutputDevice(pin=26,active_high=False)
-delay = 1
+delay = 100
 
 # relay1.on()
 # time.sleep(10)
