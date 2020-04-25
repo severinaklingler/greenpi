@@ -4,6 +4,9 @@ import requests
 from gpiozero import OutputDevice
 from gpiozero import MCP3008
 from hardware.DHT22 import DHT22
+from hardware.hx711 import HX711
+
+import numpy as np
 
 import config as cfg
 
@@ -56,11 +59,17 @@ class BonsaiServant(ConnectedSensorDevice):
         self.water_pump = OutputDevice(pin=water_pump_gpio,active_high=False)
         self.dht_sensor = DHT22(dht_gpio)
         self.current_moisture_level = 0
-        self.sensor_switch = OutputDevice(pin=sensor_switch_gpio,active_high=False)
+        self.sensor_switch = OutputDevice(pin=sensor_switch_gpio,active_high=True)
         self.server_connection = server_connection
         self.current_temperature = 0
         self.current_humidity = 0
         self.tree_id = tree_id
+        self.hx = HX711(5, 6)
+        self.hx.set_reading_format("MSB", "MSB")
+        referenceUnit = 261*1.34*0.9*1.05
+        self.hx.set_reference_unit(referenceUnit)
+        self.hx.set_offset(-5600)
+        self.current_weight = 0
 
     def _enable_sensors(self):
         self.sensor_switch.on()
@@ -73,14 +82,19 @@ class BonsaiServant(ConnectedSensorDevice):
         self._enable_sensors()
         self.current_moisture_level = self.moisture.value
         self.current_water_level = self.water_level.value
+        self._disable_sensors()
+
         self.current_humidity = self.dht_sensor.get_humidity()
         self.current_temperature = self.dht_sensor.get_temperatur()
+        self.read_weight()
+
 
         self.measurements.append(Measurement('moisture', self.current_moisture_level, self.tree_id))
         self.measurements.append(Measurement('water_tank_level', self.current_water_level, self.tree_id))
         self.measurements.append(Measurement('temperature', self.current_temperature, self.tree_id))
         self.measurements.append(Measurement('humidity', self.current_humidity, self.tree_id))
-        self._disable_sensors()
+        self.measurements.append(Measurement('weigth', self.current_weight, self.tree_id))
+        
 
     def _read_sensor(self, sensor):
         self._enable_sensors()
@@ -90,6 +104,19 @@ class BonsaiServant(ConnectedSensorDevice):
 
     def read_moisture(self):
         self.current_moisture_level = self._read_sensor(self.moisture.value)
+
+
+    def read_weight(self):
+        average_over_n = 10
+        values = np.zeros(average_over_n)
+
+        for i in range(average_over_n):
+            values[i] = self.hx.get_weight(5)
+            self.hx.power_down()
+            self.hx.power_up()
+            time.sleep(0.01)
+
+        self.current_weight = np.mean(values)     
 
     def read_water_level(self):
         self.current_water_level = self._read_sensor(self.moisture.value)
@@ -118,3 +145,6 @@ try:
 
 except KeyboardInterrupt:
     print("Cancel.")
+
+
+
