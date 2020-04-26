@@ -123,20 +123,21 @@ class BonsaiServant(ConnectedSensorDevice):
 
     def water_tree(self, seconds=1):
         self.water_pump.on()
-        pause(seconds)
+        time.sleep(seconds)
         self.water_pump.off()
 
     def update(self):
         super().update()
 
-        if self.current_moisture_level < 0.2:
+        if self.current_moisture_level < 0.5:
+            # self.water_tree()
             print('water the tree')
 
 
 
 try:
     server_connection = ServerConnection(cfg.url, cfg.authorization_token)
-    servant = BonsaiServant(server_connection, cfg.tree_id, moisture_channel=0,water_channel=1,water_pump_gpio=26,sensor_switch_gpio=27,dht_gpio=17)
+    servant = BonsaiServant(server_connection, cfg.tree_id, moisture_channel=0,water_channel=1,water_pump_gpio=26,sensor_switch_gpio=22,dht_gpio=17)
     
     while True:
         servant.update()
@@ -147,4 +148,11 @@ except KeyboardInterrupt:
     print("Cancel.")
 
 
+
+# switch = OutputDevice(pin=22,active_high=True)
+# print("on")
+# switch.on()
+# time.sleep(2)
+# switch.off()
+# time.sleep(2)
 
