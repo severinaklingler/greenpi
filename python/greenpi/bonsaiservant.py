@@ -129,7 +129,7 @@ class BonsaiServant(ConnectedSensorDevice):
     def update(self):
         super().update()
 
-        if self.current_moisture_level < 0.5:
+        if self.current_moisture_level < 0.2:
             # self.water_tree()
             print('water the tree')
 
