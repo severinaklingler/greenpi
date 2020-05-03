@@ -127,11 +127,8 @@ class BonsaiServant(ConnectedSensorDevice):
         time.sleep(seconds)
         self.water_pump.off()
 
-    def update(self):
-        super().update()
-
+    def _check_watering_state(self):
         if self.watering_mode:
-            self.water_tree(3)
             if self.current_moisture_level > 0.4:
                 print('leaving watering mode...')
                 self.watering_mode = False
@@ -140,6 +137,13 @@ class BonsaiServant(ConnectedSensorDevice):
                 print('entering watering mode...')
                 self.watering_mode = True
 
+    def update(self):
+        super().update()
+
+        self._check_watering_state()        
+
+        if self.watering_mode:
+            self.water_tree(3)
 
 try:
     server_connection = ServerConnection(cfg.url, cfg.authorization_token)

@@ -1891,3 +1891,9 @@ ReferenceError: weakly-referenced object no longer exists
    temperature : 22.399999618530273
    humidity : 65.0
    weigth : 254.37883864143367
+entering watering mode...
+   moisture : 0.12261846604787485
+   water_tank_level : 0.002442598925256556
+   temperature : 22.299999237060547
+   humidity : 64.69999694824219
+   weigth : 254.72739689014634
