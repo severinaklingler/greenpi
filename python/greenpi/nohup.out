@@ -1,0 +1,1893 @@
+   moisture : 0.2603810454323401
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.799999237060547
+   humidity : 54.0
+   weigth : 281.4680474656456
+Cancel.
+Exception ignored in: <function GPIOBase.__del__ at 0xb5a5dae0>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/gpiozero/devices.py", line 151, in __del__
+  File "/usr/lib/python3/dist-packages/gpiozero/spi_devices.py", line 68, in close
+ReferenceError: weakly-referenced object no longer exists
+   moisture : 0.23888617489008301
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.799999237060547
+   humidity : 53.099998474121094
+   weigth : 281.26139357339673
+   moisture : 0.2515876893014166
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.799999237060547
+   humidity : 54.099998474121094
+   weigth : 281.5155506297497
+   moisture : 0.24865657059110902
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.799999237060547
+   humidity : 53.5
+   weigth : 281.3449023204841
+   moisture : 0.3014167073766487
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.5
+   weigth : 281.4919503316598
+   moisture : 0.30239374694675125
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.099998474121094
+   weigth : 281.2816656243201
+   moisture : 0.2887151929653151
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.0
+   weigth : 274.65966403462824
+   moisture : 0.293600390815828
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.70000076293945
+   weigth : 274.9510369456615
+   moisture : 0.303370786516854
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.599998474121094
+   weigth : 275.08719251156487
+   moisture : 0.29653150952613583
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 53.400001525878906
+   weigth : 275.6175940827396
+   moisture : 0.3063019052271616
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 53.79999923706055
+   weigth : 275.98067559181527
+   moisture : 0.31216414264777725
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 55.79999923706055
+   weigth : 276.0076041370717
+   moisture : 0.3141182217879823
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 55.400001525878906
+   weigth : 276.06811772191764
+   moisture : 0.31704934049829014
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.099998474121094
+   weigth : 276.1132003426279
+   moisture : 0.3131411822178798
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 56.099998474121094
+   weigth : 276.21849398025984
+   moisture : 0.31900341963849543
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.099998474121094
+   weigth : 277.02816574549854
+   moisture : 0.31704934049829014
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 57.0
+   weigth : 277.40213969984654
+   moisture : 0.2232535417684416
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.79999923706055
+   weigth : 277.82361681829855
+   moisture : 0.21446018563751834
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 50.70000076293945
+   weigth : 278.9385796190851
+   moisture : 0.21152906692721052
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.0
+   weigth : 278.23087324431174
+   moisture : 0.2037127503663898
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 51.79999923706055
+   weigth : 277.0702226869665
+   moisture : 0.2056668295065951
+   water_tank_level : 0.0004885197850512668
+   temperature : 19.299999237060547
+   humidity : 52.599998474121094
+   weigth : 276.7700753061306
+   moisture : 0.20664386907669763
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 55.599998474121094
+   weigth : 276.9153079097608
+   moisture : 0.20957498778700545
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 56.099998474121094
+   weigth : 276.79307046837204
+   moisture : 0.20957498778700545
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 57.0
+   weigth : 276.89110247582255
+   moisture : 0.21446018563751834
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 57.400001525878906
+   weigth : 276.82544523626467
+   moisture : 0.2037127503663898
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 56.900001525878906
+   weigth : 276.8184861740074
+   moisture : 0.20664386907669763
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 56.29999923706055
+   weigth : 276.7119822646785
+   moisture : 0.20957498778700545
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.0
+   weigth : 276.65146867983253
+   moisture : 0.21055202735710798
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.29999923706055
+   weigth : 276.8033577777959
+   moisture : 0.2037127503663898
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 55.0
+   weigth : 276.78611140611486
+   moisture : 0.2037127503663898
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 56.5
+   weigth : 276.9966986813787
+   moisture : 0.2056668295065951
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 57.400001525878906
+   weigth : 276.4995795818693
+   moisture : 0.2056668295065951
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 54.20000076293945
+   weigth : 276.55162126483674
+   moisture : 0.2037127503663898
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 53.400001525878906
+   weigth : 276.37885498010155
+   moisture : 0.20273571079628727
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 53.29999923706055
+   weigth : 276.1604009388077
+water the tree
+   moisture : 0.19882755251587692
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 53.400001525878906
+   weigth : 276.2348326481682
+   moisture : 0.20078163165608198
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 53.400001525878906
+   weigth : 276.16312405012576
+water the tree
+   moisture : 0.19980459208597945
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 55.20000076293945
+   weigth : 276.17008311238305
+water the tree
+   moisture : 0.19785051294577438
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.20000076293945
+   weigth : 276.11925170111243
+water the tree
+   moisture : 0.19785051294577438
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.5
+   weigth : 275.8859718315314
+water the tree
+   moisture : 0.1910112359550562
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.79999923706055
+   weigth : 275.786729552384
+water the tree
+   moisture : 0.19003419638495367
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 54.20000076293945
+   weigth : 275.53680844697027
+water the tree
+   moisture : 0.19296531509526127
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 58.599998474121094
+   weigth : 275.22546605293786
+water the tree
+   moisture : 0.19296531509526127
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 54.5
+   weigth : 275.2778103038296
+water the tree
+   moisture : 0.18417195896433802
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 54.400001525878906
+   weigth : 275.1946041246664
+water the tree
+   moisture : 0.1890571568148509
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 54.400001525878906
+   weigth : 274.8660153589529
+water the tree
+   moisture : 0.19394235466536403
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 54.599998474121094
+   weigth : 274.7973324401528
+water the tree
+   moisture : 0.1890571568148509
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 54.900001525878906
+   weigth : 274.6336431931445
+water the tree
+   moisture : 0.1890571568148509
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 56.599998474121094
+   weigth : 275.0899156228829
+water the tree
+   moisture : 0.19003419638495367
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 59.20000076293945
+   weigth : 275.0390842116123
+water the tree
+   moisture : 0.19003419638495367
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 59.099998474121094
+   weigth : 274.95678573622183
+water the tree
+   moisture : 0.1890571568148509
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 58.29999923706055
+   weigth : 274.7598140175483
+water the tree
+   moisture : 0.18417195896433802
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 55.70000076293945
+   weigth : 274.6766078383851
+water the tree
+   moisture : 0.1890571568148509
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 56.0
+   weigth : 274.40217873110873
+water the tree
+   moisture : 0.18710307767464585
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 56.0
+   weigth : 274.37403991415533
+water the tree
+   moisture : 0.1861260381045433
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 55.5
+   weigth : 274.4085326575176
+water the tree
+   moisture : 0.1861260381045433
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 54.900001525878906
+   weigth : 274.3226033670363
+water the tree
+   moisture : 0.18808011724474838
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 58.099998474121094
+   weigth : 274.2176122973286
+water the tree
+   moisture : 0.18710307767464585
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 57.900001525878906
+   weigth : 274.1419703162711
+water the tree
+   moisture : 0.1831949193942355
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 57.400001525878906
+   weigth : 273.9713220070056
+water the tree
+   moisture : 0.18026380068392767
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 61.20000076293945
+   weigth : 275.849966248548
+water the tree
+   moisture : 0.18026380068392767
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 61.099998474121094
+   weigth : 275.5080644941685
+water the tree
+   moisture : 0.17733268197361984
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 59.599998474121094
+   weigth : 275.2360559302859
+water the tree
+   moisture : 0.1763556424035173
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 60.70000076293945
+   weigth : 274.7365162873826
+water the tree
+   moisture : 0.17537860283341478
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 57.70000076293945
+   weigth : 274.1546781690888
+water the tree
+   moisture : 0.1763556424035173
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 61.099998474121094
+   weigth : 274.30475185950684
+water the tree
+   moisture : 0.17537860283341478
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 61.599998474121094
+   weigth : 273.9095981504627
+water the tree
+   moisture : 0.17147044455300442
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 64.19999694824219
+   weigth : 273.6436409450648
+water the tree
+   moisture : 0.1734245236932095
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.100000381469727
+   humidity : 64.9000015258789
+   weigth : 273.1198958682231
+water the tree
+   moisture : 0.17147044455300442
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.0
+   humidity : 65.80000305175781
+   weigth : 273.0572643079076
+water the tree
+   moisture : 0.17147044455300442
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.899999618530273
+   humidity : 62.20000076293945
+   weigth : 272.92564726086766
+water the tree
+   moisture : 0.17244748412310695
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 62.0
+   weigth : 272.87844666468783
+water the tree
+   moisture : 0.16951636541279913
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 61.0
+   weigth : 272.5704325178219
+water the tree
+   moisture : 0.17049340498290189
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 64.69999694824219
+   weigth : 272.278151903016
+water the tree
+   moisture : 0.16951636541279913
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.700000762939453
+   humidity : 62.900001525878906
+   weigth : 272.4403283104031
+water the tree
+   moisture : 0.1685393258426966
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.700000762939453
+   humidity : 63.5
+   weigth : 272.2521310615323
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.700000762939453
+   humidity : 61.79999923706055
+   weigth : 272.0999393956447
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 62.20000076293945
+   weigth : 271.8361001657164
+water the tree
+   moisture : 0.1685393258426966
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 62.0
+   weigth : 272.24971051813844
+water the tree
+   moisture : 0.16951636541279913
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 61.0
+   weigth : 272.29781881809106
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 60.900001525878906
+   weigth : 271.87271088454816
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 60.400001525878906
+   weigth : 271.9214243203492
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 61.400001525878906
+   weigth : 271.81310500347496
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 61.70000076293945
+   weigth : 271.60251772821107
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 61.20000076293945
+   weigth : 271.98889696745243
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.29999923706055
+   weigth : 271.80342282989966
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 60.79999923706055
+   weigth : 271.8648441185182
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.599998474121094
+   weigth : 271.74109383750823
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.20000076293945
+   weigth : 271.9895021033009
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.599998474121094
+   weigth : 271.7619710242801
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.900001525878906
+   weigth : 271.7589453450379
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.29999923706055
+   weigth : 271.7946483600969
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.099998474121094
+   weigth : 271.91930634487954
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.70000076293945
+   weigth : 271.8055408053692
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.900001525878906
+   weigth : 272.0578824541768
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 62.0
+   weigth : 271.5752866150304
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.0
+   weigth : 272.0969137164024
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 60.900001525878906
+   weigth : 271.969835188226
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.900001525878906
+   weigth : 271.7477503318413
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.5
+   weigth : 271.82641799214105
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 59.70000076293945
+   weigth : 271.80190999027843
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 60.5
+   weigth : 271.8103818921569
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.5
+   weigth : 271.62157950743756
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 60.70000076293945
+   weigth : 271.75198628278054
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 59.70000076293945
+   weigth : 271.818551226111
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.70000076293945
+   weigth : 271.8515311298521
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.599998474121094
+   weigth : 271.7011548715099
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.79999923706055
+   weigth : 271.3292988926316
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.20000076293945
+   weigth : 271.02340272123536
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 58.29999923706055
+   weigth : 271.1432196192303
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 59.29999923706055
+   weigth : 271.0061563495543
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 49.70000076293945
+   weigth : 270.4569955670773
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 19.100000381469727
+   humidity : 52.70000076293945
+   weigth : 270.128709369288
+water the tree
+   moisture : 0.1538837322911577
+   water_tank_level : 0.0004885197850512668
+   temperature : 19.700000762939453
+   humidity : 58.79999923706055
+   weigth : 270.6267361725702
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 57.70000076293945
+   weigth : 271.65032346023935
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.0
+   humidity : 56.599998474121094
+   weigth : 271.3241552379197
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 58.5
+   weigth : 271.7610633205074
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 55.20000076293945
+   weigth : 271.8309565110045
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 56.599998474121094
+   weigth : 272.0887443824482
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 57.79999923706055
+   weigth : 272.2327667143815
+water the tree
+   moisture : 0.1685393258426966
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 59.099998474121094
+   weigth : 272.2112843917613
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 61.70000076293945
+   weigth : 272.05848759002527
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 60.0
+   weigth : 271.93201419769724
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 61.099998474121094
+   weigth : 271.86333127889714
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 61.0
+   weigth : 271.8010022865058
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 58.0
+   weigth : 271.5955586659538
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 56.70000076293945
+   weigth : 271.39979721897714
+water the tree
+   moisture : 0.16756228627259406
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.70000076293945
+   weigth : 271.49450097926103
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.400001525878906
+   weigth : 271.4176487265066
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.70000076293945
+   weigth : 271.09208564003546
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 55.79999923706055
+   weigth : 271.03732084574995
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 55.79999923706055
+   weigth : 270.8276412742587
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.0
+   weigth : 270.987397138252
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 56.0
+   weigth : 270.69935247438536
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 54.5
+   weigth : 270.3504916577484
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.0
+   weigth : 270.1858947069674
+water the tree
+   moisture : 0.16267708842208117
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.0
+   weigth : 270.3780253388533
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.20000076293945
+   weigth : 269.9695586411432
+water the tree
+   moisture : 0.16658524670249153
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 54.900001525878906
+   weigth : 269.6476263697628
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 54.70000076293945
+   weigth : 269.46699331899765
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 55.0
+   weigth : 269.4049668945305
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 55.29999923706055
+   weigth : 269.25247266071875
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 58.900001525878906
+   weigth : 269.2694164644757
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 53.20000076293945
+   weigth : 269.25005211732486
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 55.29999923706055
+   weigth : 269.1045169457704
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 54.0
+   weigth : 268.8754730271285
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 55.29999923706055
+   weigth : 268.8890885837189
+water the tree
+   moisture : 0.16560820713238877
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 55.0
+   weigth : 268.6945374084391
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.0
+   weigth : 268.5822847085499
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 58.099998474121094
+   weigth : 268.5132992218255
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 56.5
+   weigth : 268.3644358031045
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 56.29999923706055
+   weigth : 268.0745757316924
+water the tree
+   moisture : 0.15876893014167082
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 55.70000076293945
+   weigth : 268.0216263449522
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 55.599998474121094
+   weigth : 267.8812348281096
+water the tree
+   moisture : 0.1636541279921837
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 59.0
+   weigth : 268.0043799732711
+water the tree
+   moisture : 0.16072300928187588
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 55.5
+   weigth : 267.722386667889
+water the tree
+   moisture : 0.15974596971177335
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 55.20000076293945
+   weigth : 267.43373686817387
+water the tree
+   moisture : 0.16170004885197842
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 57.099998474121094
+   weigth : 267.13207664771676
+water the tree
+   moisture : 0.1509526135808501
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 55.900001525878906
+   weigth : 267.29697616642204
+water the tree
+   moisture : 0.155837811431363
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 56.400001525878906
+   weigth : 267.34205878713226
+water the tree
+   moisture : 0.1538837322911577
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.600000381469727
+   humidity : 55.5
+   weigth : 267.2673245098475
+water the tree
+   moisture : 0.15779189057156806
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.5
+   humidity : 57.0
+   weigth : 267.2037852457592
+water the tree
+   moisture : 0.15486077186126046
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 56.29999923706055
+   weigth : 266.8525038857285
+water the tree
+   moisture : 0.15486077186126046
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.399999618530273
+   humidity : 56.5
+   weigth : 266.6857889594779
+water the tree
+   moisture : 0.16463116756228624
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 57.0
+   weigth : 266.43919610123066
+water the tree
+   moisture : 0.15486077186126046
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 56.900001525878906
+   weigth : 266.05463226953464
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 57.20000076293945
+   weigth : 266.1317870902133
+water the tree
+   moisture : 0.15779189057156806
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 57.900001525878906
+   weigth : 265.7614439509561
+water the tree
+   moisture : 0.14997557401074735
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 58.0
+   weigth : 265.62044729826505
+water the tree
+   moisture : 0.15486077186126046
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 58.099998474121094
+   weigth : 265.45312723616604
+water the tree
+   moisture : 0.1538837322911577
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 57.900001525878906
+   weigth : 265.3118280155507
+water the tree
+   moisture : 0.15192965315095264
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 57.79999923706055
+   weigth : 265.2625094439013
+water the tree
+   moisture : 0.15486077186126046
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 59.099998474121094
+   weigth : 264.83770407828274
+water the tree
+   moisture : 0.1538837322911577
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 58.5
+   weigth : 264.6328655935792
+water the tree
+   moisture : 0.15779189057156806
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 58.5
+   weigth : 264.70124594445514
+water the tree
+   moisture : 0.155837811431363
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 58.099998474121094
+   weigth : 264.42802710887577
+water the tree
+   moisture : 0.15290669272105517
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 57.900001525878906
+   weigth : 264.3578313504544
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 57.79999923706055
+   weigth : 264.5106281521904
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 58.29999923706055
+   weigth : 264.45798133337445
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 58.20000076293945
+   weigth : 264.18869588081003
+water the tree
+   moisture : 0.1509526135808501
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 58.599998474121094
+   weigth : 264.0489094998158
+water the tree
+   moisture : 0.14997557401074735
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 59.400001525878906
+   weigth : 263.80988083967435
+water the tree
+   moisture : 0.14997557401074735
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 58.900001525878906
+   weigth : 263.8631327943388
+water the tree
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 58.5
+   weigth : 263.54241079465527
+water the tree
+   moisture : 0.1509526135808501
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 58.5
+   weigth : 263.47614841924894
+water the tree
+   moisture : 0.14704445530043975
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 58.29999923706055
+   weigth : 263.366921398602
+water the tree
+   moisture : 0.14509037616023446
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 55.5
+   weigth : 263.14181086297515
+water the tree
+   moisture : 0.14215925744992663
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 55.900001525878906
+   weigth : 262.8589098538203
+water the tree
+   moisture : 0.146067415730337
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 55.099998474121094
+   weigth : 262.78720125577786
+water the tree
+   moisture : 0.1431362970200294
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 53.900001525878906
+   weigth : 262.6101990201035
+water the tree
+   moisture : 0.1509526135808501
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 54.400001525878906
+   weigth : 262.5962808955889
+water the tree
+   moisture : 0.1431362970200294
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 54.29999923706055
+   weigth : 262.5769165484382
+water the tree
+   moisture : 0.146067415730337
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 54.5
+   weigth : 262.25710225252743
+water the tree
+   moisture : 0.14509037616023446
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 58.099998474121094
+   weigth : 262.5875064257863
+water the tree
+   moisture : 0.14899853444064481
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 56.599998474121094
+   weigth : 262.4613356013825
+water the tree
+   moisture : 0.1509526135808501
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.799999237060547
+   humidity : 56.20000076293945
+   weigth : 262.1121722168213
+water the tree
+   moisture : 0.1431362970200294
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.700000762939453
+   humidity : 56.20000076293945
+   weigth : 262.0764692017622
+water the tree
+   moisture : 0.14509037616023446
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 56.0
+   weigth : 262.02140183955237
+water the tree
+   moisture : 0.14802149487054228
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 56.099998474121094
+   weigth : 262.124880069639
+water the tree
+   moisture : 0.14802149487054228
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 56.5
+   weigth : 261.9121748189055
+water the tree
+   moisture : 0.146067415730337
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 56.5
+   weigth : 261.8616459755591
+water the tree
+   moisture : 0.14411333659013192
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 56.400001525878906
+   weigth : 261.6631614172644
+water the tree
+   moisture : 0.14509037616023446
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 56.79999923706055
+   weigth : 263.1720676553981
+water the tree
+   moisture : 0.1431362970200294
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 56.79999923706055
+   weigth : 262.90701815377287
+water the tree
+   moisture : 0.1431362970200294
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.200000762939453
+   humidity : 57.79999923706055
+   weigth : 262.5451469163942
+water the tree
+   moisture : 0.14215925744992663
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.100000381469727
+   humidity : 58.400001525878906
+   weigth : 261.9142927943751
+water the tree
+   moisture : 0.14215925744992663
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.0
+   humidity : 59.599998474121094
+   weigth : 261.79871184731934
+water the tree
+   moisture : 0.1411822178798241
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 59.0
+   weigth : 261.32035195911214
+water the tree
+   moisture : 0.1411822178798241
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 58.79999923706055
+   weigth : 261.0114301084735
+water the tree
+   moisture : 0.1411822178798241
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.799999237060547
+   humidity : 59.29999923706055
+   weigth : 260.848648565238
+water the tree
+   moisture : 0.14020517830972157
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.700000762939453
+   humidity : 59.29999923706055
+   weigth : 260.69312865218393
+water the tree
+   moisture : 0.1411822178798241
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 61.0
+   weigth : 260.3660527260916
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 59.599998474121094
+   weigth : 260.07256183958873
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 60.599998474121094
+   weigth : 259.76212714932905
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 60.29999923706055
+   weigth : 259.94881155857877
+water the tree
+   moisture : 0.13922813873961903
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 60.900001525878906
+   weigth : 260.0789157659975
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 60.70000076293945
+   weigth : 259.4571386817055
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.5
+   humidity : 60.79999923706055
+   weigth : 259.83383574737144
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 61.29999923706055
+   weigth : 259.57302219668543
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.599998474121094
+   weigth : 259.821430462478
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 63.400001525878906
+   weigth : 259.39541482516256
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.29999923706055
+   weigth : 259.3648554648154
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 60.29999923706055
+   weigth : 259.4480616439786
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 62.599998474121094
+   weigth : 259.2710594083042
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.399999618530273
+   humidity : 60.29999923706055
+   weigth : 259.24292059135075
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 62.400001525878906
+   weigth : 259.128549915992
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 60.599998474121094
+   weigth : 258.97363513878634
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 62.400001525878906
+   weigth : 259.2290024668363
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 62.400001525878906
+   weigth : 259.05200023116186
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 62.20000076293945
+   weigth : 259.14519115182463
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.400001525878906
+   weigth : 259.18906350083796
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.400001525878906
+   weigth : 258.8438334992918
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.29999923706055
+   weigth : 258.93974753127264
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 60.70000076293945
+   weigth : 259.1203805820378
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.0
+   weigth : 259.31341891769637
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 60.099998474121094
+   weigth : 258.852002833246
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.299999237060547
+   humidity : 61.20000076293945
+   weigth : 258.72038578620607
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 63.099998474121094
+   weigth : 259.1645554989753
+water the tree
+   moisture : 0.13141182217879832
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 62.099998474121094
+   weigth : 259.35214761199774
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.0
+   weigth : 259.23928977626
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 62.0
+   weigth : 259.1442834480519
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 62.099998474121094
+   weigth : 259.0852827028271
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.400001525878906
+   weigth : 258.93430130863646
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 60.599998474121094
+   weigth : 259.30040849695445
+water the tree
+   moisture : 0.13141182217879832
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.900001525878906
+   weigth : 258.9001111331985
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.599998474121094
+   weigth : 258.95245538409023
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.100000381469727
+   humidity : 60.70000076293945
+   weigth : 258.9461014576814
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.100000381469727
+   humidity : 60.70000076293945
+   weigth : 259.20358676120094
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.200000762939453
+   humidity : 61.0
+   weigth : 258.75124771447753
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.100000381469727
+   humidity : 56.70000076293945
+   weigth : 258.88437760113857
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.100000381469727
+   humidity : 56.70000076293945
+   weigth : 258.4846853732311
+water the tree
+   moisture : 0.12945774303859303
+   water_tank_level : 0.0004885197850512668
+   temperature : 19.700000762939453
+   humidity : 50.29999923706055
+   weigth : 256.8235874692099
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 18.0
+   humidity : 52.70000076293945
+   weigth : 256.5615636468269
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 18.899999618530273
+   humidity : 56.099998474121094
+   weigth : 256.98455360490004
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 19.899999618530273
+   humidity : 53.70000076293945
+   weigth : 257.11072442930384
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.0004885197850512668
+   temperature : 20.600000381469727
+   humidity : 58.70000076293945
+   weigth : 257.86714423987826
+water the tree
+   moisture : 0.12457254518808014
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.0
+   humidity : 55.5
+   weigth : 258.2544311828923
+water the tree
+   moisture : 0.13727405959941374
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.200000762939453
+   humidity : 56.0
+   weigth : 258.7225037616757
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 56.79999923706055
+   weigth : 258.9197780482735
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 56.70000076293945
+   weigth : 259.0922417650844
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 55.79999923706055
+   weigth : 259.5064572533549
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 56.400001525878906
+   weigth : 259.0405026500411
+water the tree
+   moisture : 0.1362970200293112
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 59.400001525878906
+   weigth : 258.85956703135173
+water the tree
+   moisture : 0.12554958475818268
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.600000381469727
+   humidity : 61.0
+   weigth : 257.68499834949193
+water the tree
+   moisture : 0.12359550561797761
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.200000762939453
+   humidity : 63.400001525878906
+   weigth : 256.818443814498
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.100000381469727
+   humidity : 67.30000305175781
+   weigth : 256.63781076373283
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.0
+   humidity : 69.30000305175781
+   weigth : 256.45415203372534
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.200000762939453
+   humidity : 71.19999694824219
+   weigth : 256.4538494658012
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.200000762939453
+   humidity : 71.4000015258789
+   weigth : 256.28380629238404
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 72.0999984741211
+   weigth : 256.18123576607013
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 73.5999984741211
+   weigth : 256.07957294352894
+water the tree
+   moisture : 0.12945774303859303
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 74.0999984741211
+   weigth : 256.08199348692284
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 72.80000305175781
+   weigth : 256.10952716802774
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 73.19999694824219
+   weigth : 255.80998492304025
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 72.80000305175781
+   weigth : 255.4813961573268
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.100000381469727
+   humidity : 75.9000015258789
+   weigth : 255.19365406138436
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.100000381469727
+   humidity : 78.0
+   weigth : 255.22935707644342
+water the tree
+   moisture : 0.12457254518808014
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 78.0999984741211
+   weigth : 255.31891718201547
+water the tree
+   moisture : 0.1265266243282852
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 78.4000015258789
+   weigth : 255.22965964436767
+water the tree
+   moisture : 0.12359550561797761
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 78.5999984741211
+   weigth : 255.2738345613052
+water the tree
+   moisture : 0.12554958475818268
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 75.30000305175781
+   weigth : 255.24024952171573
+water the tree
+   moisture : 0.12359550561797761
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 75.4000015258789
+   weigth : 255.15401766331024
+water the tree
+   moisture : 0.12554958475818268
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.299999237060547
+   humidity : 75.0999984741211
+   weigth : 255.07353459546516
+water the tree
+   moisture : 0.1265266243282852
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.399999618530273
+   humidity : 75.9000015258789
+   weigth : 255.53555581576393
+water the tree
+   moisture : 0.1284807034684905
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.5
+   humidity : 76.5
+   weigth : 256.3055911829286
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 71.0
+   weigth : 256.1176965019819
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 65.69999694824219
+   weigth : 256.3887973620918
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 74.19999694824219
+   weigth : 256.9863690124455
+water the tree
+   moisture : 0.13531998045920868
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 72.4000015258789
+   weigth : 256.9912100992332
+water the tree
+   moisture : 0.13238886174890085
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 70.80000305175781
+   weigth : 257.2837932819633
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.299999237060547
+   humidity : 54.0
+   weigth : 257.523124510029
+water the tree
+   moisture : 0.12457254518808014
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.70000076293945
+   weigth : 257.36064553471766
+water the tree
+   moisture : 0.1265266243282852
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 54.099998474121094
+   weigth : 257.1185911953339
+water the tree
+   moisture : 0.13825109916951628
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.200000762939453
+   humidity : 55.099998474121094
+   weigth : 257.01360012562617
+water the tree
+   moisture : 0.13434294088910592
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.100000381469727
+   humidity : 56.20000076293945
+   weigth : 256.6874319033065
+water the tree
+   moisture : 0.14020517830972157
+   water_tank_level : 0.0004885197850512668
+   temperature : 22.0
+   humidity : 53.79999923706055
+   weigth : 256.9558096520983
+water the tree
+   moisture : 0.13141182217879832
+   water_tank_level : 0.0014655593551538004
+   temperature : 22.100000381469727
+   humidity : 57.5
+   weigth : 256.863223867284
+water the tree
+   moisture : 0.12945774303859303
+   water_tank_level : 0.0014655593551538004
+   temperature : 21.899999618530273
+   humidity : 53.79999923706055
+   weigth : 257.1306939123031
+water the tree
+   moisture : 0.11968734733756725
+   water_tank_level : 0.0004885197850512668
+   temperature : 21.899999618530273
+   humidity : 54.29999923706055
+   weigth : 257.0105744463838
+water the tree
+   moisture : 0.1187103077674645
+   water_tank_level : 0.0014655593551538004
+   temperature : 21.700000762939453
+   humidity : 61.099998474121094
+   weigth : 256.39303331303097
+water the tree
+   moisture : 0.12066438690766979
+   water_tank_level : 0.0014655593551538004
+   temperature : 21.700000762939453
+   humidity : 61.20000076293945
+   weigth : 256.2977244168986
+water the tree
+   moisture : 0.12359550561797761
+   water_tank_level : 0.002442598925256556
+   temperature : 21.799999237060547
+   humidity : 64.0
+   weigth : 256.1591483076014
+water the tree
+   moisture : 0.12261846604787485
+   water_tank_level : 0.002442598925256556
+   temperature : 21.899999618530273
+   humidity : 65.19999694824219
+   weigth : 256.0593008926056
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.002442598925256556
+   temperature : 21.899999618530273
+   humidity : 66.9000015258789
+   weigth : 255.8202722324641
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.002442598925256556
+   temperature : 21.899999618530273
+   humidity : 67.19999694824219
+   weigth : 255.77034852496618
+water the tree
+   moisture : 0.12554958475818268
+   water_tank_level : 0.002442598925256556
+   temperature : 21.899999618530273
+   humidity : 67.69999694824219
+   weigth : 255.6735267892127
+water the tree
+   moisture : 0.1333659013190034
+   water_tank_level : 0.002442598925256556
+   temperature : 22.100000381469727
+   humidity : 67.5999984741211
+   weigth : 255.29561945184975
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.002442598925256556
+   temperature : 22.200000762939453
+   humidity : 68.4000015258789
+   weigth : 255.50741699881058
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.002442598925256556
+   temperature : 22.200000762939453
+   humidity : 67.69999694824219
+   weigth : 255.37489224799793
+water the tree
+   moisture : 0.13141182217879832
+   water_tank_level : 0.002442598925256556
+   temperature : 22.299999237060547
+   humidity : 63.29999923706055
+   weigth : 255.64448026848663
+water the tree
+   moisture : 0.1265266243282852
+   water_tank_level : 0.002442598925256556
+   temperature : 22.200000762939453
+   humidity : 68.5
+   weigth : 255.40242592910286
+water the tree
+   moisture : 0.11968734733756725
+   water_tank_level : 0.002442598925256556
+   temperature : 22.100000381469727
+   humidity : 67.5
+   weigth : 255.19577203685395
+water the tree
+   moisture : 0.12750366389838796
+   water_tank_level : 0.002442598925256556
+   temperature : 22.0
+   humidity : 68.30000305175781
+   weigth : 254.93435335031944
+water the tree
+   moisture : 0.1265266243282852
+   water_tank_level : 0.002442598925256556
+   temperature : 21.899999618530273
+   humidity : 68.9000015258789
+   weigth : 254.65024206946774
+water the tree
+   moisture : 0.12945774303859303
+   water_tank_level : 0.002442598925256556
+   temperature : 21.799999237060547
+   humidity : 69.0999984741211
+   weigth : 254.70228375243528
+water the tree
+   moisture : 0.13043478260869557
+   water_tank_level : 0.002442598925256556
+   temperature : 21.700000762939453
+   humidity : 68.4000015258789
+   weigth : 254.47323983379334
+water the tree
+   moisture : 0.12945774303859303
+   water_tank_level : 0.002442598925256556
+   temperature : 21.799999237060547
+   humidity : 68.9000015258789
+   weigth : 254.31287883395157
+   moisture : 0.1333659013190034
+   water_tank_level : 0.002442598925256556
+   temperature : 22.399999618530273
+   humidity : 66.5999984741211
+   weigth : 254.50924541677668
+Cancel.
+Exception ignored in: <function GPIOBase.__del__ at 0xb5a7dae0>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/gpiozero/devices.py", line 151, in __del__
+  File "/usr/lib/python3/dist-packages/gpiozero/spi_devices.py", line 68, in close
+ReferenceError: weakly-referenced object no longer exists
+   moisture : 0.12554958475818268
+   water_tank_level : 0.002442598925256556
+   temperature : 22.399999618530273
+   humidity : 65.0
+   weigth : 254.37883864143367

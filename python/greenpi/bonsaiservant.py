@@ -70,6 +70,7 @@ class BonsaiServant(ConnectedSensorDevice):
         self.hx.set_reference_unit(referenceUnit)
         self.hx.set_offset(-5600)
         self.current_weight = 0
+        self.watering_mode = False
 
     def _enable_sensors(self):
         self.sensor_switch.on()
@@ -129,10 +130,15 @@ class BonsaiServant(ConnectedSensorDevice):
     def update(self):
         super().update()
 
-        if self.current_moisture_level < 0.2:
-            # self.water_tree()
-            print('water the tree')
-
+        if self.watering_mode:
+            self.water_tree(3)
+            if self.current_moisture_level > 0.4:
+                print('leaving watering mode...')
+                self.watering_mode = False
+        else:
+            if self.current_moisture_level < 0.2:
+                print('entering watering mode...')
+                self.watering_mode = True
 
 
 try:

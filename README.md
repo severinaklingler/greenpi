@@ -17,3 +17,7 @@ Configure GIPO, sensor switch output must be set to low
 gpio=22=op,dl
 https://www.raspberrypi.org/documentation/configuration/config-txt/gpio.md
 
+
+To run the script use
+rm output.log
+nohup python3 -u bonsaiservant.py > output.log 2>&1 &
