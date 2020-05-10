@@ -28,6 +28,9 @@ class ServerConnection:
     def post(self, sub_path, data):
        return requests.post(self.url + sub_path, data=data, headers=self.headers)
 
+    def get(self, sub_path):
+       return requests.get(self.url + sub_path, headers=self.headers)
+
 class ConnectedSensorDevice:
     def __init__(self, server_connection):
         self.server_connection = server_connection
@@ -133,7 +136,7 @@ class BonsaiServant(ConnectedSensorDevice):
                 print('leaving watering mode...')
                 self.watering_mode = False
         else:
-            if self.current_moisture_level < 0.2:
+            if self.current_moisture_level < 0.15:
                 print('entering watering mode...')
                 self.watering_mode = True
 

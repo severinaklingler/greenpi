@@ -4,3 +4,4 @@ build/
 *.pyc
 config.py
 *.log
+nohup.out
