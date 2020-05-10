@@ -6971,3 +6971,8 @@ leaving watering mode...
    temperature : 24.700000762939453
    humidity : 73.69999694824219
    weigth : 252.68294542612603
+   moisture : 0.15681485100146553
+   water_tank_level : 0.0004885197850512668
+   temperature : 24.700000762939453
+   humidity : 73.80000305175781
+   weigth : 253.23513188784528
